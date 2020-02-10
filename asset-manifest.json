@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/starwarz/static/css/main.d727e8e6.chunk.css",
+    "main.js": "/starwarz/static/js/main.df37bcbd.chunk.js",
+    "main.js.map": "/starwarz/static/js/main.df37bcbd.chunk.js.map",
+    "runtime-main.js": "/starwarz/static/js/runtime-main.c8d498b8.js",
+    "runtime-main.js.map": "/starwarz/static/js/runtime-main.c8d498b8.js.map",
+    "static/css/2.299a5230.chunk.css": "/starwarz/static/css/2.299a5230.chunk.css",
+    "static/js/2.6be974d7.chunk.js": "/starwarz/static/js/2.6be974d7.chunk.js",
+    "static/js/2.6be974d7.chunk.js.map": "/starwarz/static/js/2.6be974d7.chunk.js.map",
+    "index.html": "/starwarz/index.html",
+    "precache-manifest.05ae1a4f912b2bde15733ff8befd65b0.js": "/starwarz/precache-manifest.05ae1a4f912b2bde15733ff8befd65b0.js",
+    "service-worker.js": "/starwarz/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/starwarz/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.d727e8e6.chunk.css.map": "/starwarz/static/css/main.d727e8e6.chunk.css.map",
+    "static/js/2.6be974d7.chunk.js.LICENSE.txt": "/starwarz/static/js/2.6be974d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8d498b8.js",
+    "static/css/2.299a5230.chunk.css",
+    "static/js/2.6be974d7.chunk.js",
+    "static/css/main.d727e8e6.chunk.css",
+    "static/js/main.df37bcbd.chunk.js"
+  ]
+}

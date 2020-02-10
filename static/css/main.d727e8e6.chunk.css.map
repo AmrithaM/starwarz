@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACC,oCAAsC,CACtC,QAAS,CACT,sFAAmF,CAAnF,yDACD","file":"main.d727e8e6.chunk.css","sourcesContent":["body {\n\tfont-family: 'Press Start 2P', cursive;\n\tmargin: 0;\n\tbackground: linear-gradient(to right, rgba(0, 0, 0, 1) 0%, rgba(0,27,68, 0.8) 100%);\n}"]}
